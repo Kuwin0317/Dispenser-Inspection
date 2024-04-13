@@ -221,4 +221,8 @@ print('Finished whole test print')
 
 for i in range(2):
     print('Accuracy of %5s : %2d %%' % (
+<<<<<<< HEAD
         classes[i], 100 * class_correct[i]/class_total[i]))
+=======
+        classes[i], 100 * class_correct[i]/class_total[i]))
+>>>>>>> test/local-branch
