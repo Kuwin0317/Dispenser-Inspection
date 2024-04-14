@@ -1,0 +1,8 @@
+*   [33mb7a8feb40af0cdf56f21c36972b0cdb07ca63a53[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m for merge
+[31m|[m[32m\[m  
+[31m|[m * [33m05c283feb098a21a8f1a6ebadd956fcf88d93b2d[m[33m ([m[1;31morigin/test/local-branch[m[33m, [m[1;32mtest/local-branch[m[33m)[m local branch save
+* [32m|[m [33me2bba282f7cdfbd23389aacd88d39bf1eb4715e6[m[33m ([m[1;31morigin/main[m[33m)[m 짤린부분 수정
+[32m|[m[32m/[m  
+* [33m30a07b33aaa19d073c147f274718f5f23b42b980[m[33m ([m[1;31morigin/test/remote-branch[m[33m, [m[1;32mtest/remote-branch[m[33m)[m Add .gitignore file
+* [33med8b0a721d5078c50737747bebbf4d0e18465484[m second commit
+* [33m3efa2a265b4a4a15380bdfc2ab32110b86e819f5[m 저장소 설명 추가
